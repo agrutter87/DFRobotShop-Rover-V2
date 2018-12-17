@@ -5,3 +5,8 @@ This repository holds all the files used for development of this project, includ
 + Hardware - contains hardware documentation
 + Software - contains software
 + Testing - contains documentation related to testing
+
+Software build instructions:
+
+1. Open DFRover-Arduino-Sketch.ino in the Arduino IDE 1.8.8. (https://www.arduino.cc/en/Main/Software)
+2. Click 'Verify' to build.
